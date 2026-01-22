@@ -57,7 +57,7 @@ Exploratory data analysis (EDA) techniques such as descriptive statistics, bar c
 These insights provide actionable guidance for improving service quality and operational efficiency.
 
 <img w<img width="456" height="393" alt="Screen Shot 2026-01-23 at 00 15 50" src="https://github.com/user-attachments/assets/5e88c1b8-c724-4c48-9131-f7fb97e38d34" />
-idth="399" height="338" alt="Screen Shot 2026-01-23 at 00 07 03" src="https://github.com/user-attachments/assets/50c271e9-61e3-4ab4-bd92-461b7585d6f0" />
+<img width="456" height="393" alt="Screen Shot 2026-01-23 at 00 15 50" src="https://github.com/user-attachments/assets/684a3c6d-9290-4dad-a173-1d04c24d9147" />
 <img width="495" height="342" alt="Screen Shot 2026-01-23 at 00 04 02" src="https://github.com/user-attachments/assets/47328c22-7039-428c-ae7b-a5047ea1eb43" />
 <img width="499" height="320" alt="Screen Shot 2026-01-23 at 00 16 28" src="https://github.com/user-attachments/assets/a63f86e9-5a8e-486d-9eba-d07f5e0f9a69" />
 
