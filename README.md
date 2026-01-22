@@ -40,6 +40,10 @@ Initial exploration focused on understanding data distributions, identifying mis
 
 These steps helped create a clean and structured dataset suitable for exploratory analysis and insight generation.
 
+<img width="399" height="338" alt="Screen Shot 2026-01-23 at 00 07 03" src="https://github.com/user-attachments/assets/50c271e9-61e3-4ab4-bd92-461b7585d6f0" />
+
+<img width="495" height="342" alt="Screen Shot 2026-01-23 at 00 04 02" src="https://github.com/user-attachments/assets/47328c22-7039-428c-ae7b-a5047ea1eb43" />
+
 ## Analysis & Evaluation
 
 Exploratory data analysis (EDA) techniques such as descriptive statistics, bar charts, and distribution plots were used to identify patterns and relationships in the data. The analysis revealed notable trends between delivery time, order cost, and customer ratings.
